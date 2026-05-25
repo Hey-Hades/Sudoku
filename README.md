@@ -3,7 +3,7 @@
 A fully functional, interactive Sudoku game built with **React + Vite** and deployed via **Vercel**.  
 Includes smart features like cell highlighting, input validation, undo, hints, and a victory animation!
 
-> 🚀 [Play it live here!](https://sudoku-omega-sepia.vercel.app/)
+> 🚀 [Play it live here!](https://sudoku-hey-hades.vercel.app/)
 
 ---
 
