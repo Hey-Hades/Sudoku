@@ -4,6 +4,10 @@ A fully functional, interactive Sudoku game built with **React + Vite** and depl
 Includes smart features like cell highlighting, input validation, undo, hints, and a victory animation!
 
 > 🚀 [Play it live here!](https://sudoku-hey-hades.vercel.app/)
+> 
+> 
+> <img width="2880" height="1620" alt="image" src="https://github.com/user-attachments/assets/f8e6e57a-c955-4e79-8248-016607478ed3" />
+
 
 ---
 
